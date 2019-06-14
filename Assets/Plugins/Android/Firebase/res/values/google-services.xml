@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://house-builder-f7acb.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">695137944788</string>
+  <string name="google_storage_bucket" translatable="false">house-builder-f7acb.appspot.com</string>
+  <string name="project_id" translatable="false">house-builder-f7acb</string>
+  <string name="google_api_key" translatable="false">AIzaSyAOVaWKdmPv3zT1KJ-tGumLynAicXnGG4E</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAOVaWKdmPv3zT1KJ-tGumLynAicXnGG4E</string>
+  <string name="google_app_id" translatable="false">1:695137944788:android:335461120b745d4b</string>
+  <string name="default_web_client_id" translatable="false">695137944788-rea9q3ni7k10vh15r1fh4c3k578ipmec.apps.googleusercontent.com</string>
+</resources>
